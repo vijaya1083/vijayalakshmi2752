@@ -27,6 +27,8 @@ import org.testng.annotations.BeforeSuite;
 
 public class TestClass {
 	
+	
+
 	  Properties configProp = new Properties();
 	  
 	WebDriver driver;
@@ -35,6 +37,7 @@ public class TestClass {
 	@Test
 	  public void f() {
 		
+		System.out.println("Welome to mavven project");
 		
 		
 			System.out.println("From Method 1");
@@ -73,8 +76,7 @@ public class TestClass {
 		
 	@Test
 	public void method2() {
-		
-
+	
 		
 		System.out.println("Method 2");
 		
