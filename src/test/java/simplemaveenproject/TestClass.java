@@ -35,6 +35,7 @@ public class TestClass {
 	
 	@Test
 	  public void f() {
+		System.out.println("welome to mnvn prg");
 		
 			System.out.println("From Method 1");
 		
