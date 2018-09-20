@@ -12,6 +12,7 @@ public class Simpleclass {
 	
 	
 public Properties readConfigDetails() {
+	System.out.println("wergghhj");
 		
 	String Filepath="C:\\Softwares\\Myprograms\\simplemaveenproject\\Resourses\\datafile.properties" ;	
 	Properties prop = new Properties();	
