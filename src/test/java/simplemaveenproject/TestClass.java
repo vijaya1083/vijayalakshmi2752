@@ -32,13 +32,9 @@ public class TestClass {
 	  Properties configProp = new Properties();
 	  
 	WebDriver driver;
-		
-		
+	
 	@Test
 	  public void f() {
-		
-		System.out.println("Welome to mavven project");
-		
 		
 			System.out.println("From Method 1");
 		
